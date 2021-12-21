@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ChadMemeMaker/static/css/main.a71e73be.css",
-    "main.js": "/ChadMemeMaker/static/js/main.b0c22368.js",
-    "static/js/787.cfd8f164.chunk.js": "/ChadMemeMaker/static/js/787.cfd8f164.chunk.js",
-    "static/media/meme.png": "/ChadMemeMaker/static/media/meme.b42510d02c4dd71c9951.png",
-    "index.html": "/ChadMemeMaker/index.html",
-    "main.a71e73be.css.map": "/ChadMemeMaker/static/css/main.a71e73be.css.map",
-    "main.b0c22368.js.map": "/ChadMemeMaker/static/js/main.b0c22368.js.map",
-    "787.cfd8f164.chunk.js.map": "/ChadMemeMaker/static/js/787.cfd8f164.chunk.js.map"
+    "main.css": "/static/css/main.a71e73be.css",
+    "main.js": "/static/js/main.f180eabe.js",
+    "static/js/787.cfd8f164.chunk.js": "/static/js/787.cfd8f164.chunk.js",
+    "static/media/meme.png": "/static/media/meme.b42510d02c4dd71c9951.png",
+    "index.html": "/index.html",
+    "main.a71e73be.css.map": "/static/css/main.a71e73be.css.map",
+    "main.f180eabe.js.map": "/static/js/main.f180eabe.js.map",
+    "787.cfd8f164.chunk.js.map": "/static/js/787.cfd8f164.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a71e73be.css",
-    "static/js/main.b0c22368.js"
+    "static/js/main.f180eabe.js"
   ]
 }
